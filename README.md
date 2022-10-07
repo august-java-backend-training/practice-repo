@@ -7,5 +7,4 @@ Java Backend August practice repository for Week 6 Day 5 assignment.
 April: Ramen is my favorite food
 
 Shiyou: My favorite color is blue
-
 YangYu： My hair is black.
