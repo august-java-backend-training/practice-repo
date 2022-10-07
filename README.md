@@ -16,4 +16,4 @@ Arnold: My favorite color is black
 
 Jung Eek: I love playing Tennis
 
-Shawn: I want to eat some fruits
+Shawn: I need some fruits
