@@ -11,3 +11,5 @@ Shiyou: My favorite color is blue
 Julia: I love Peko Gummy
 
 YanLing: Yellow is my favorite color
+
+Arnold: My favorite color is black
