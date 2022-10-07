@@ -14,4 +14,4 @@ YanLing: Yellow is my favorite color
 
 Arnold: My favorite color is black
 
-Shawn: I love carbohydrate
+Jung Eek: I love playing Tennis
