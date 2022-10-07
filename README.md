@@ -9,3 +9,5 @@ April: Ramen is my favorite food
 Shiyou: My favorite color is blue
 
 Julia: I love Peko Gummy
+
+YanLing: Yellow is my favorite color
