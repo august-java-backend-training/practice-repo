@@ -5,3 +5,5 @@ Java Backend August practice repository for Week 6 Day 5 assignment.
 3. Merge your branch into the main branch.
 
 April: Ramen is my favorite food
+
+Shiyou: My favorite color is blue
