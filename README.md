@@ -17,3 +17,5 @@ Arnold: My favorite color is black
 Jung Eek: I love playing Tennis
 
 Shawn: I need some fruits
+
+Sharon: My favorite food is tapioca/boba tea.
