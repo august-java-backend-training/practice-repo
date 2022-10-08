@@ -19,4 +19,5 @@ Jung Eek: I love playing Tennis
 Shawn: I need some fruits
 
 Sharon: My favorite food is tapioca/boba tea.
+
 Chang Liu： I like apples.
