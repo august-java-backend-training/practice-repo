@@ -22,4 +22,8 @@ Sharon: My favorite food is tapioca/boba tea.
 
 Chang Liu： I like apples.
 
+<<<<<<< HEAD
 Hanyi Xing: I like Minecraft
+=======
+Xingxuan Tang: I like Yoasobi's song.
+>>>>>>> Xingxuan_Tang
