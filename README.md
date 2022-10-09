@@ -27,7 +27,11 @@ Hanyi Xing: I like Minecraft
 
 Xingxuan Tang: I like Yoasobi's song.
 
+
+Benjamin Li: I like this
+
 Jiasen Zhou: I like Italian food.
 
 Kason Xu: I like Chinese food.
+
 
