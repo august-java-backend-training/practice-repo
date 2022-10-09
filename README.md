@@ -29,3 +29,5 @@ Xingxuan Tang: I like Yoasobi's song.
 
 Jiasen Zhou: I like Italian food.
 
+Kason Xu: I like Chinese food.
+
