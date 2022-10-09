@@ -32,3 +32,5 @@ Jiasen Zhou: I like Italian food.
 Kason Xu: I like Chinese food.
 
 Walter Wang: I like movies
+
+Zeyu Zhang: I like cats.
