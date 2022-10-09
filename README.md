@@ -32,3 +32,5 @@ Jiasen Zhou: I like Italian food.
 Kason Xu: I like Chinese food.
 
 Walter Wang: I like movies
+
+Shijie Hong: I like the Cello Suites and Concertos.
