@@ -34,3 +34,5 @@ Kason Xu: I like Chinese food.
 Walter Wang: I like movies
 
 Wade Hu: I am good at cooking.
+
+Shijie Hong: I like the Cello Suites and Concertos.
