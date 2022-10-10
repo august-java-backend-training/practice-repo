@@ -36,3 +36,5 @@ Walter Wang: I like movies
 Wade Hu: I am good at cooking.
 
 Shijie Hong: I like the Cello Suites and Concertos.
+
+Xuyuan Zhang (Hebe): I can't find a good movie recently.
