@@ -22,7 +22,6 @@ Sharon: My favorite food is tapioca/boba tea.
 
 Chang Liu： I like apples.
 
-
 Hanyi Xing: I like Minecraft
 
 Xingxuan Tang: I like Yoasobi's song.
@@ -38,3 +37,5 @@ Wade Hu: I am good at cooking.
 Shijie Hong: I like the Cello Suites and Concertos.
 
 Xuyuan Zhang (Hebe): I can't find a good movie recently.
+
+Chuang Zhang (Amber): I like Japanese food
