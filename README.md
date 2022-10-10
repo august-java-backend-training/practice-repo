@@ -41,3 +41,5 @@ Xuyuan Zhang (Hebe): I can't find a good movie recently.
 Chuang Zhang (Amber): I like Japanese food
 
 Zeyu Zhang : I like cats
+
+Anh Lam: I like to work out.
