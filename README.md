@@ -43,3 +43,5 @@ Chuang Zhang (Amber): I like Japanese food
 Zeyu Zhang : I like cats
 
 Anh Lam: I like to work out.
+
+Brian Lok: I like handball.
